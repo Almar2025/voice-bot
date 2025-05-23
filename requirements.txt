@@ -1,7 +1,10 @@
-pyTelegramBotAPI==4.12.0
-SpeechRecognition
+python-telegram-bot==20.3
 pydub
-sumy
-pydrive
+SpeechRecognition
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
 google-api-python-client
-oauth2client
+httplib2
+requests
+python-dotenv
