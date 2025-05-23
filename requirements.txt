@@ -1,8 +1,8 @@
-aiogram
-openai
-pydub
+python-telegram-bot==20.3
 SpeechRecognition
-python-dotenv
+pydub
 google-api-python-client
-google-auth-httplib2
+google-auth
 google-auth-oauthlib
+google-auth-httplib2
+openai
